@@ -1,6 +1,6 @@
 checkdbdiffs.py 
 
-compares two database schemas.
+compares two Oracle database schemas.
 
 It checks all tables within a schema 
 for rowcounts, latest timestamps, and a hash sum of ALL timestamps.
