@@ -15,5 +15,5 @@ SQL named "dsql" and put that field name in this part:
                           ELSE 3
 
 giving the date field most commonly used as order 1, the second choice as 2.  Otherwise
-the script will randomly choose a date field in the table/						  
+the script will randomly choose a date field in the table.						  
 
